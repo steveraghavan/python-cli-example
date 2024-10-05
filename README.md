@@ -5,7 +5,7 @@ A small Python CLI example you can use to build on. With an emphasis on Linux an
 
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a Rust project? The [template](https://github.com/alfredodeza/rust-template/generate) has everything you need!
 
-This repository is part of the Python and Rust CLI tools course: 
+This repository is part of the Python and Rust CLI tools course:  
 
 - [1: Resources](https://github.com/alfredodeza/python-and-rust-tools) 
 - [2: Python CLI](https://github.com/alfredodeza/python-cli-example)  👈 You are here!
